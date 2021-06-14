@@ -1,4 +1,4 @@
-﻿//AUTHOR: Philip F. McCracken
+//AUTHOR: Philip F. McCracken
 //DATE: 2021 JUNE
 //TARGETED .NET Framework 4.7
 using System;
@@ -9,6 +9,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.ComponentModel.DataAnnotations;
 using Microsoft.VisualBasic.FileIO;
+//using Microsoft.Extensions.DependencyInjection;   //PROBLEMS INSTALLING NuGet PACKAGE and dotnet package. - 20210614
 
 namespace CSVReadParse
 {
